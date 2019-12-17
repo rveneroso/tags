@@ -1,1 +1,12 @@
 First line of the second file.
+
+And the file continues to grow up
+.
+.
+.
+.
+.
+.
+.
+.
+..... to another line.
